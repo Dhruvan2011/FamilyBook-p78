@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color:rgb(0, 183, 255);
+}
+
+h1{
+    font-variant: small-caps;
+    font-size: xx-large;
+    color:#f51e66;
+}
+
+    
+    img{
+        height: 450px;
+        width : 450px;
+        border-width: 5px;
+        border-style:ridge;
+        border-radius: 30px;
+        border-color:rgb(8, 8, 8);
+        margin: 10px;
+    }
+
+    button{
+        height: 50px;
+        width: 200px;
+        background-color: #2cfa89;
+        font-size: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: seashell;
+        border-radius: 5px;
+        border-color:seashell;
+    }
+
+    h2{
+        font-family: cursive;
+        color: #f56248;
+    }
+
+    h3{
+        font-family: cursive;
+        color: rgb(85, 255, 232);
+        font-size: 20px;
+        text-decoration: underline;
+    }
+
+    h4{
+        color: #ff9e0d;
+        font-size: 19px;
+    }
